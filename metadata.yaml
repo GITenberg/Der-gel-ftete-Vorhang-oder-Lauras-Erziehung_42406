@@ -20,6 +20,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Honor%C3%A9_Gabriel_Riqueti_de_Mirabeau
     - http://en.wikipedia.org/wiki/Honor%C3%A9_Gabriel_Riqueti,_comte_de_Mirabeau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42406#Der-gel-ftete-Vorhang-oder-Lauras-Erziehung
 gutenberg_issued: '2013-03-24'
 gutenberg_type: Text
 identifiers:
